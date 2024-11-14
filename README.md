@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b6000034-9ba6-49aa-996c-43498669789a)# TestRail Old runs&results cleanup
+# TestRail Old runs&results cleanup
 TestRail API를 이용해서 만든 오래된 Runs & Results를 클린업하여 testrail 내부의 속도 케어 목표로 제작된 코드입니다.
 
 
